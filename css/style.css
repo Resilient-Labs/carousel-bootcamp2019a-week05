@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+  list-style: none;
+  background: #f8f8ff;
+}
+
+
+h1 {
+  color: lightgreen;
+  text-align: center;
+
+}
+img{
+  margin-left: 23%;
+  height: 500px;
+  border: 1px solid lightgreen;
+  display:block;
+
+}
+section>section{
+  margin-left: 35%;
+
+}
+button{
+  width:20%;
+  display: inline-block;
+  border-radius: 20%;
+
+}
