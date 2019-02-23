@@ -1,0 +1,21 @@
+h1{
+  color:teal;
+  font-size: 20px;
+  text-align:center;
+}
+
+button{
+  width: 10%;
+  background-color: teal;
+  color:white;
+}
+section{
+  width: 60%;
+  margin-left: 45%;
+}
+
+img{
+display: block;
+margin-left: 45%;
+height:250px;
+}
