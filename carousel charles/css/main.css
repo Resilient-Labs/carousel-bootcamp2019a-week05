@@ -1,0 +1,11 @@
+img{
+  display: block;
+  height: 30em;
+  width: 40%;
+  margin: auto;
+  float: left;
+}
+section{
+  float:left;
+  width: 100%;
+}
