@@ -1,0 +1,33 @@
+body {
+  background-color: #cdf;
+}
+
+h1 {
+  font-family: cute cartoon;
+  color: white;
+  font-size: 70px;
+  margin-left: 40%;
+  margin-bottom: 0;
+}
+
+img {
+  height: 500px;
+  margin-left: 33%;
+}
+
+button {
+  height: 50px;
+  width: 20%;
+  margin-top: 30px;
+  margin-left: 26%;
+  border: 2px solid white;
+  border-radius: 10px;
+  font-size: 30px;
+  font-family: cursive;
+  color: white;
+  background-color: transparent;
+}
+
+#next {
+  margin: 0;
+}
