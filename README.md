@@ -13,6 +13,10 @@
   - (1 to 5 no 3) I completed the challenge
   - (1 to 5 no 3) I feel good about my code
   - Anything specific on which you want feedback!
+  
+  I completed the challenge: 5
+I feel good about my code: 5
+site needs a bit of styling, but feel over all good abot project ...
 
 Example:
 ```
