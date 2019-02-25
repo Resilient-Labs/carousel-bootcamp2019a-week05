@@ -3,7 +3,7 @@ I love Converse shoes! When I was told to do a photo carousel I immediately thou
 
 **Link to project:** coming soon
 
-![alt tag]:(kithXCoke.jpg)
+![alt tag]:(media/kithXCoke.jpg)
 
 ## How It's Made:
 
