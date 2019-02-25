@@ -1,22 +1,15 @@
-# 🎠 Week05 Bootcamp2019a Project: Carousel
+# 🎠Simple Image Carousel
 
-### Goal: Build a Simple Image Carousel
+Rotates through images using a next and back button.
 
-### How to submit your code for review:
+![alt tag](img/imgcarousel.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How it's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**languages used:** HTML5, CSS3, and jquery
+
+Added an event listener onto the back and next button which then moves down or up an array of pictures respectively. Used .attribute method to update the source tag on my image element to change the pictures in the DOM.  
+
+## Lessons Learned:
+
+Learned how to create a loop in an array for display without using a for loop and the method .attr updates an attribute added to an element.
