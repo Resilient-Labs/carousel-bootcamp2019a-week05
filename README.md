@@ -1,22 +1,14 @@
-# 🎠 Week05 Bootcamp2019a Project: Carousel
+# Wonderful World of Chucks
+I love Converse shoes! When I was told to do a photo carousel I immediately thought of Chucks and the awesome collaborations they've had. Especially the Kith X Coke X Converse series. Unfortunately for me I was unable to purchase any due to the influx of bots on the online street wear scene.
 
-### Goal: Build a Simple Image Carousel
+**Link to project:** coming soon
 
-### How to submit your code for review:
+![alt tag](kithXCoke.jpg)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML, CSS, JavaScript,
+
+## Lessons Learned:
+
+As a budding engineer a lot of information is learned through trial and error. My greatest lesson learned while working on this project and that I will implement in future projects is that google is that changing the height of a project is better then changing the width of a photo if you want to keep the picture visible.
