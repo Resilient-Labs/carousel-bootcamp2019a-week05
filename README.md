@@ -20,7 +20,7 @@
 
 **Link to project:** coming soon!
 
-![alt tag](carousel.png)
+![alt tag](carousel-bootcamp2019a-week05/carousel.png)
 
 ## How It's Made:
 
