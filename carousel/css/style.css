@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(../img/funny.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+section{
+  height: 306px;
+  width: 30%;
+  float: left;
+  margin-left: 558px;
+  margin-top: 101px;
+
+}
+img{
+  height: 300px;
+}
+button{
+  color: white;
+  background-color: red;
+  float: left;
+  margin-right: 498px;
+  margin-left: -365px;
+  margin-top: 81px;
+}
