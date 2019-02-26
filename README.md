@@ -3,7 +3,7 @@ I created a quick and easy carousel that scrolls through a series of images, wit
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![Image](carousel.png)
 
 ## How It's Made:
 
