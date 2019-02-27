@@ -1,20 +1,7 @@
 # 🎠 Week05 Bootcamp2019a Project: Carousel
 
-### Goal: Build a Simple Image Carousel
 
-### How to submit your code for review:
-
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - 4 I completed the challenge
-  - 4 I feel good about my code
-  - Anything specific on which you want feedback!
-
- # My Awesome Project
+# My Awesome Project
  The carousel project was really fun to create. Using some of my faviorte sneakers to output images in the carousel allowed me to have fun with this project, and understand the importance of arrays.   
 
 
