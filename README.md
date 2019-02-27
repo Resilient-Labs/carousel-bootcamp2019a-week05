@@ -7,12 +7,12 @@
 
 **Link to project:** coming soon!
 
-![alt tag](carousel-bootcamp2019a-week05/img/carousel.png)
+![alt tag](img/carousel.png)
 
 ## How It's Made:
 
 **Tech used:** 
-Using HTML, CSS, JavaScrpit, & jQuery help build the carousel at hand. The carousel was created to output images to HTML using an array in JavaScript. The tools used to build Carousel help shape it into the master piece you see today.  Although, fully fuctioning the styling can be touched up.
+Using HTML, CSS, JavaScrpit, & jQuery help build the carousel at hand. The carousel was created to output images to HTML using an array in JavaScript. The tools used to build Carousel help shape it into the master piece you see today. Although, fully fuctioning the styling can be touched up.
 
 
 
