@@ -7,7 +7,7 @@
 
 **Link to project:** coming soon!
 
-![alt tag](carousel-bootcamp2019a-week05/carousel.png)
+![alt tag](img/carousel.png)
 
 ## How It's Made:
 
