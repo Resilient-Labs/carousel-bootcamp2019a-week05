@@ -22,8 +22,8 @@ $('#forwardbtn').click( function(){
     $("img").attr("src", images[count]);
     
     console.log(images[count], count)
-
 });
+
 
 //back button//
 $("#backbtn").click( function(){
