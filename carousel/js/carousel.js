@@ -25,6 +25,6 @@ $(document).ready(function (){
     $("img").attr("src", dogPictures[index])
   })
 
-})
+});
 // what is the user going to see
 // what does the user expect and what can they actually see
