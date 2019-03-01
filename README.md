@@ -1,5 +1,6 @@
 # My Awesome Carousel
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+
+Here we have a carousel of cute dog photos. All you have to do is click the "Thank u, next" and "previous" buttons to browse through the photos.
 
 **Link to project:**
 
@@ -8,10 +9,10 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS and JavaScript
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+I built this project by first creating an HTML document in order to create the headers, image tags and the button elements. Then I created the JavaScript file that will target the elements in my HTML file and give them functions. After I completed both the HTML and JavaScript I created a CSS file in order to style my site color, font styles etc.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+With this particular project I was struggling to get the "previous" button to function properly, but with the help from fellow alumni I was able to figure out the solution.
