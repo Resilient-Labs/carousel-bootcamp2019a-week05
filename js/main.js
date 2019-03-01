@@ -3,11 +3,9 @@
 
 //Change the picture:
 //Img source held in array
-// img source changes to show new picture
+//img source changes to show new picture
 
 //When clicking a button change the image source index by one to move forward and minus one to go backwards
-
-//Edge case to get from last img to first and first to last
 
 //Attribute method .attr takes in two methods
 
