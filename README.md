@@ -1,22 +1,14 @@
-# 🎠 Week05 Bootcamp2019a Project: Carousel
+# Carousel Project
 
-### Goal: Build a Simple Image Carousel
+This web application allows users to view each photo in the slideshow at once by clicking next and then back to start all over. In this web application, I decided to use the concept of a simple vegan menu with an assortment of different, creative dishes.
 
-### How to submit your code for review:
+## How It's Made
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+Tech used: HTML, CSS, & JavaScript
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Optimizations
+
+I would add a feature to allow the user to continuously move through the menu without the need to click back in order to start all over from the beginning.
+
+## Lessons Learned
+Through this project, I learned how to incorporate the use of arrays with a variety of images.
