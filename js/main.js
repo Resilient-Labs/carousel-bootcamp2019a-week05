@@ -2,7 +2,7 @@
 //The user clicks the back button and views the previous image
 //The image are reset or ongoing so that the carousel does not end ( it only resets)
 
-var track = 0;
+let track = 0;
 
 let images = ['img/burger.jpg', 'img/cookies.jpg', 'img/frenchfries.jpg', 'img/hotdog.jpg', 'img/macaroni.jpg', 'img/pancake.jpg', 'img/salmon.jpg', 'img/spaghetti.jpg']
 //burger, cookies, frenchfries, hotdog, macaroni, pancake, salmon, spaghetti
