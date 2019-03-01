@@ -2,27 +2,27 @@
 //The user clicks the back button and views the previous image
 //The image are reset or ongoing so that the carousel does not end ( it only resets)
 
-let track = 0;
+let rotation = 0;
 
-let images = ['img/burger.jpg', 'img/cookies.jpg', 'img/frenchfries.jpg', 'img/hotdog.jpg', 'img/macaroni.jpg', 'img/pancake.jpg', 'img/salmon.jpg', 'img/spaghetti.jpg']
+let imgs = ['img/vegan1.jpeg', 'img/vegan2.jpeg', 'img/vegan3.jpeg', 'img/vegan9.jpeg', 'img/vegan5.jpeg', 'img/vegan6.jpeg', 'img/vegan7.jpeg', 'img/vegan8.jpeg', 'img/vegan10.jpeg', 'img/vegan11.jpeg']
 //burger, cookies, frenchfries, hotdog, macaroni, pancake, salmon, spaghetti
 
 function swap(){
-  $('section.carousel img').attr('src', images[track])
+  $('section.vegan img').attr('src', imgs[rotation])
 }
 
-$("#next").on('click', function(){
- track += 1;
- if (track >= images.length) {
-   track = images.length
+$("#vegannext").on('click', function(){
+  rotation += 1;
+ if (rotation >= imgs.length) {
+   rotation = imgs.length
  }
  swap()
 })
 
-$("#back").on('click', function(){
-  track -= 1;
-  if (track <= 0) {
-  track = 0
+$("#veganback").on('click', function(){
+  rotation -= 1;
+  if (rotation <= 0) {
+  rotation = 0
   }
   swap()
 })
