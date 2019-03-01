@@ -2,6 +2,8 @@
 # Image Carousel
 An application where user can press buttons to change an array of pictures.
 
+![alt tag](ImageCarousel-screenshoot.png)
+
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, jquery
