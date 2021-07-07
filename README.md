@@ -1,22 +1,18 @@
-# 🎠 Week05 Bootcamp2019a Project: Carousel
+# My Awesome Carousel
 
-### Goal: Build a Simple Image Carousel
+Here we have a carousel of cute dog photos. All you have to do is click the "Thank u, next" and "previous" buttons to browse through the photos.
 
-### How to submit your code for review:
+**Link to project:**
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+![alt tag](caro.png)
+
+## How It's Made:
+
+**Tech used:** HTML, CSS and JavaScript
+
+I built this project by first creating an HTML document in order to create the headers, image tags and the button elements. Then I created the JavaScript file that will target the elements in my HTML file and give them functions. After I completed both the HTML and JavaScript I created a CSS file in order to style my site color, font styles etc.
+
+## Lessons Learned:
+
+With this particular project I was struggling to get the "previous" button to function properly, but with the help from fellow alumni I was able to figure out the solution.
