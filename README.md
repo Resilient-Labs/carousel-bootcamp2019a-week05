@@ -1,22 +1,15 @@
-# 🎠 Week05 Bootcamp2019a Project: Carousel
+# IMAGE CAROUSEL PROJECT
+This application allows users to move through 5 pictures starting at 1. Users can go forward and backward repeatedly with no end.
 
-### Goal: Build a Simple Image Carousel
+![carousel picture](carousel.png)
 
-### How to submit your code for review:
+## How It's Made:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+**Tech used:** HTML, CSS, JavaScript
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Optimizations
+I would add a feature to allow a slow transition through the photos.
+
+## Lessons Learned:
+
+I learned how to display images using arrays and set a counter to track how many times users can move forward and backward through the images. 

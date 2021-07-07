@@ -1,0 +1,26 @@
+body{
+  background-color: lightblue;
+}
+h1{
+  color:teal;
+  font-size: 20px;
+  text-align:center;
+}
+
+img{
+display: block;
+margin-left: 25%;
+height:450px;
+}
+section{
+  width: 60%;
+  margin-left: 45%;
+}
+
+button{
+  width: 10%;
+  background-color: teal;
+  color:white;
+}
+
+/* transition: margin-right 2s .5s; */
