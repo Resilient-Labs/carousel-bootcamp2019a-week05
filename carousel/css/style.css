@@ -1,0 +1,52 @@
+body{
+   padding: 0;
+   margin: 0;
+   background: black;
+}
+
+#carousel{
+    margin: 50px auto;
+    width: 100%;
+    height: 800px;
+    box-shadow: 0 0 10px black;
+    overflow: hidden;
+    background: white;
+}
+
+img{
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+button{
+    height: 100px;
+    width: 200px;
+    font-size: 100px;
+    background:white;
+    border-radius: 10%;
+}
+
+.secright{
+    float: right;
+    margin-right: 200px;
+    width:50%;
+    margin-bottom: 50px;
+}
+
+.secleft{
+    float: left;
+    margin-left: 200px;
+    width:50%;
+    margin-bottom:  50px;
+}
+
+
+
+
+
+
